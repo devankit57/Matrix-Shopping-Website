@@ -1,1 +1,8 @@
 
+Navbar 
+1.Logo
+2.Navlink
+3.Search bar
+4.shopping cart icon
+5.wishtlist icon
+
